@@ -1,0 +1,1 @@
+Some small crypto core project to play around
